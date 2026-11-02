@@ -9,5 +9,5 @@ USB-A Male to USB-C Female adapter costs around 2 to 4 dollars.
 USB-A power plug (any old power plug is usable here), it can also be connected directly to the usb port in the backside of the WIFI network broadband. (in my case the broadband is having a usb type C port, so I have to get a USB-A to USB-C converter, it costs about 2 to 4 dollars too.)
 ## Software required
 Using Audriano IDE as it is begginer friendly.
-The latest Audriano IDE version can be used for this 
+The latest Audriano IDE version can be used for this.
 Direct link for official audriano download ⇒ https://www.arduino.cc/en/software/
