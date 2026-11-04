@@ -9,6 +9,6 @@ USB-A Male to USB-C Male adapter costs around 2 to 4 dollars. <img width="447" h
 
 USB-A power plug (any old power plug is usable here), it can also be connected directly to the usb port in the backside of the WIFI network broadband. (in my case the broadband is having a usb type C port, so I have to get a USB-A to USB-C converter, it costs about 2 to 4 dollars too.)
 ## Software required
-Using Audriano IDE as it is begginer friendly.
-The latest Audriano IDE version can be used for this.
-Direct link for official audriano download ⇒ https://www.arduino.cc/en/software/
+1. Using Platform IO IDE on VS code for this project.
+2. The latest Platform IO IDE version can be used for this.
+3. Platform IO can be downloaded directly through the VS Code marketplace.
