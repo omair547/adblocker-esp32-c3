@@ -11,3 +11,6 @@ It is a very budget friendly project as it runs o very less power consumption an
 Using Platform IO IDE on VS code for this project.<br>
 The latest Platform IO IDE version can be used for this.<br>
 Platform IO can be downloaded directly through the VS Code marketplace.<br>
+## Procedure and Setup
+Follow these steps to set up, configure and upload the codes to your ESP32-C3-Supermini:
+Ope
