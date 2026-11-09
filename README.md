@@ -12,5 +12,9 @@ Using Platform IO IDE on VS code for this project.<br>
 The latest Platform IO IDE version can be used for this.<br>
 Platform IO can be downloaded directly through the VS Code marketplace.<br>
 ## Procedure and Setup
-Follow these steps to set up, configure and upload the codes to your ESP32-C3-Supermini:
-Ope
+Follow these steps to set up, configure and upload the codes to your ESP32-C3-Supermini: <br>
+1. Open VS code on your device with PLATFORM IO IDE setup on it.
+2. Add the codes provided in the file.
+3. Go to the platform.ini file and paste the following codes.
+<img width="1806" height="696" alt="image" src="https://github.com/user-attachments/assets/d770556a-06e4-4398-a437-ba60e44c815d" />
+4. 
