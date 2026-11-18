@@ -15,6 +15,7 @@ Platform IO can be downloaded directly through the VS Code marketplace.<br>
 Follow these steps to set up, configure and upload the codes to your ESP32-C3-Supermini: <br>
 1. Open VS code on your device with PLATFORM IO IDE setup on it.
 2. Add the codes provided in the file.
-3. Go to the platform.ini file and paste the following codes.
-<img width="1806" height="696" alt="image" src="https://github.com/user-attachments/assets/d770556a-06e4-4398-a437-ba60e44c815d" />
-4. 
+3. Go to the platform.ini file and paste the codes provided.
+4. Then navigate to main.cpp located in src and paste the codes provided.
+5. After pasting the main.cpp codes on the correct place, go to the wifi_ssid and wifi_pass and put your wifi details in the "YOUR_SSID" and "YOUR_PASSWORD".<img width="1826" height="717" alt="image" src="https://github.com/user-attachments/assets/401fa77e-4ed4-412c-9144-e89d2588bd52" />
+6. 
